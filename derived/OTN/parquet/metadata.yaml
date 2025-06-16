@@ -1,0 +1,35 @@
+name: "nsbs_matched_detections_2016.parquet"
+file_type: network detection extract - parquet format
+license: "CC-BY-4.0"
+poc:
+  name: "Jonathan Pye"
+  email: "jonpye@gmail.com"
+citation.cff: 
+  cff-version: 2.0 # https://citation-file-format.github.io/
+  authors:
+  - family-names: "Jones"
+    given-names: "Brian"
+  - family-names: "Pye"
+    given-names: "Jonathan"
+    orcid: "https://orcid.org/0000-0003-2807-5867"
+  title: "nsbs_matched_detections_2016.parquet"
+  message: "Please cite this dataset using the metadata from 'preferred-citation'."
+format: ASCII text
+size_bytes: 
+recording:
+  start: "2016-01-01Z"
+  end: "2016-12-31"
+creation_date: 2025-06-12
+exporting_software:
+  name: otn-nodebooks
+  version: 2025.06.06
+instrument:
+  type: "various"
+  frequency_khz: 69
+  vendor: Vemco
+records:
+  detections:
+    - type: "tracker"
+      vendor: Vemco
+      n_detected: 59
+      n_detections: 1745
