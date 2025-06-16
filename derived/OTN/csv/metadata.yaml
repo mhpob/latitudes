@@ -5,7 +5,7 @@ poc:
   name: "Jonathan Pye"
   email: "jonpye@gmail.com"
 citation.cff: 
-  cff-version: 2.0 # https://citation-file-format.github.io/
+  cff-version: 1.2.0 # https://citation-file-format.github.io/
   authors:
   - family-names: "Jones"
     given-names: "Brian"
