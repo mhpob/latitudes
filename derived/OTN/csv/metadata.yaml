@@ -15,7 +15,7 @@ citation.cff:
   title: "nsbs_matched_detections_2016.zip"
   message: "Please cite this dataset using the metadata from 'preferred-citation'."
 format: ASCII text
-size_bytes: 
+size_bytes: 44753
 recording:
   start: "2016-01-01Z"
   end: "2016-12-31"
